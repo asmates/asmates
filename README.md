@@ -1,7 +1,7 @@
 ## 💫About Me : Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+QA+Test+Automation+Engineer;Mehmet+Alatas&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am++Test+Automation+Engineer;Asım+Ates&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <div align="center">
@@ -9,10 +9,11 @@
 </div>
 
 ## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mehmetualatas/) <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/MehmetuAlatas)-->
-- ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
-- ✍️ I like collaboration and communication to produce quality products as a team. 
 
-![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+- ✍️ I have been involved in UI and Backend automation development for functional tests; smoke, regression and End to End test. <br/>
+- ✍️ I like collaboration and communication to produce quality products as a team.
+
+![snake gif](https://github.com/asmates/asmates/blob/master/github-contribution-grid-snake.gif)
 
 ## 💻Tech Stack
 
@@ -32,7 +33,6 @@
 <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU" alt="sql" width="50" height="50"/> </a>
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
- 
 
 </p>
 
@@ -47,6 +47,7 @@
 ### ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <hr/>
 
  <div align="center">
@@ -102,7 +103,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  
+
 </div>
 
 ---
@@ -111,23 +112,23 @@
 
 
 <div align="center">
-  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vince-gasimov&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-  
+
   </div>
 
 <div align="center">
-  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vince-gasimov&theme=dark)](https://git.io/streak-stats)
-  
+
   </div>
-  
+
   <div align="center">
-  
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vince-gasimov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+
   </div>
-  
+
   <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7300e6&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
 </div>
