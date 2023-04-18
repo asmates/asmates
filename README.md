@@ -10,27 +10,19 @@
 
 ## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/asimates/) <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/asmates)-->
 
-- ✍️ A highly competent and results-oriented Test Automation Engineer with one year of experience in Software Test Engineering. <br/>
-- ✍️ Proficient in Selenium WebDriver, Cucumber, TestNG, JUnit, Maven, Java, API, Rest Assured, Postman, SQL, Automation Testing tools.
-- ✍️ Expert in designing and implementing different automation frameworks from scratch, like Page Objects Framework, using Selenium WebDriver, Cucumber and TestNG for a number of projects.
+• Graduated from Abant İzzet Baysal University. <br>
+• A highly competent and result-oriented Test Automation Engineer with 1+ years of experience, certified in the field of IT. <br>
+• Expert in using Selenium WebDriver, Cucumber, TestNG, JUnit, Java, API, Rest Assured, Postman, SQL, Automation and Manual Testing tools. <br>
+• Skilled in designing and implementing different automation frameworks from scratch such as Page Object Framework using Selenium WebDriver, Cucumber and TestNG. <br>
+• A solid understanding and skill in using the Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) and Defect Lifecycle processes within the Agile/Scrum Methodology. <br>
+• Strong Communication skills, able to perform independently with minimal supervision and also competently as part of a team. <br>
+• Open to innovations, willing to research and learn about new developments in the field of Information Technologies. <br>
 
 ![snake gif](https://github.com/asmates/asmates/blob/master/github-contribution-grid-snake.gif)
 
-## 💻Tech Stack :
+## 💻Tecnical Skills :
 
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
- <img src="İntelij.png" title="IntelliJ" alt="IntelliJ" width="50" height="50"/>&nbsp;
-<a href="https://www.selenium.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="Selenium" width="50" height="50"/> </a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="50" height="50"/>&nbsp;
-<img src="TestNG.webp" title="TestNG" alt="TestNG" width="50" height="50"/>&nbsp;
-<img src="jNUNİT.png" title="JUnit" alt="JUnit" width="50" height="50"/>&nbsp;
-<a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpswKqlwex1UtYOHT6cWIVsJ3dQfEg__lFQ&usqp=CAU" alt="api" width="50" height="50"/> </a>
-<img src="Postman.png" title="TestNG" alt="TestNG" width="50" height="50"/>&nbsp;
-<img src="PostgreSQL.png" alt="postman" width="50" height="50"/> 	</a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a>
-<a href="https://www.jmeter.com" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter" width="50" height="50"/> </a>
-</p>
+Java | OOP Concept | Selenium WebDriver | Cucumber | TestNG | Junit | Page Object Model | Maven | Api | Postman | Rest Assured | Sql | Jdbc | Html | Css | JavaScript | JMeter | Jenkins | Git – Github | Jira - Xray | Agile Methodology |
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asmates&show_icons=true&count_private=true)
 
