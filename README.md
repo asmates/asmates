@@ -1,14 +1,10 @@
-## 💫About Me : Hi there 👋
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Asım+ATES&font=Fira%20Code&center=true&width=150&height=50&duration=4000&pause=1000"> <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am++Test+Automation+Engineer;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
-<div align="center">
-  <img src="https://github.com/asmates/asmates/blob/master/5680237420928-929-test-otomasyonu.png" width="600" height="200"/>
-</div>
-
 ## 📫 How to reach me : [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/asimates/) <!--[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/asmates)-->
+
+## 💫About Me : 👋
 
 • Graduated from Abant İzzet Baysal University. <br>
 • A highly competent and result-oriented Test Automation Engineer with 1+ years of experience, certified in the field of IT. <br>
@@ -18,7 +14,7 @@
 • Strong Communication skills, able to perform independently with minimal supervision and also competently as part of a team. <br>
 • Open to innovations, willing to research and learn about new developments in the field of Information Technologies. <br>
 
-![snake gif](https://github.com/asmates/asmates/blob/master/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/asmates/asmates/blob/master/snake.gif)
 
 ## 💻Tecnical Skills :
 
